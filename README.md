@@ -11,7 +11,7 @@
 **`Software Engineering Student | Cybersecurity, Cloud, Networks & Data`**
 
 <div align="center">
-  <img alt="Coding GIF" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyd2lpeTRqN3R6cTlwcG05NnZrZDhjbDBuMGgzM3JiNnEwMHQwZGlydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
+  <img alt="Coding GIF" width="100%" height="450" style="object-fit: cover;" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyd2lpeTRqN3R6cTlwcG05NnZrZDhjbDBuMGgzM3JiNnEwMHQwZGlydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
 </div>
 
 ---
