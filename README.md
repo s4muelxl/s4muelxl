@@ -1,63 +1,64 @@
-# Samuel Alves
-**Software Engineering Student | Backend, Cloud & Data**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:1a0033,100:6a0dad&text=Samuel%20Alves&fontColor=ffffff&fontSize=45&fontAlignY=50" alt="Header banner" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/samuel-alves-277015332)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail)](mailto:corporativosamuel8877alves@gmail.com)
+<div align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/samuel-alves-277015332">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Samuel_Alves-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:corporativosamuel8877alves@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-1a0033?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-A Software Engineering student at Universidade São Judas Tadeu (USJT) with a strong foundation in backend development, data processing, and cloud infrastructure. Passionate about building secure, scalable applications and automating complex business workflows.
+## 👨‍💻 About Me
 
----
-
-### 💻 Core Competencies
-
-*   **Languages & Frameworks:** Python, JavaScript/TypeScript, React, Next.js, C.
-*   **Data & Analytics:** SQL, Pandas, Scikit-Learn, TensorFlow, Power BI.
-*   **Infrastructure & DevOps:** AWS, Docker, Linux, Git/GitHub.
-*   **Security & Networking:** Cisco Network Defense, Endpoint Security, Threat Mitigation.
-
----
-
-### 🚀 Engineering Projects
-
-I focus on building projects that solve real problems, prioritizing clean architecture and performance.
-
-#### [Cabeça de Gelo](#) *(Add your repo link here)*
-**Real-Time Communication Platform**
-*   **Tech Stack:** Next.js, WebRTC, LiveKit, Tailwind CSS.
-*   **Description:** Engineered a low-latency web application for real-time audio, video, and screen sharing. 
-*   **Impact:** Handled complex asynchronous state management and media streaming pipelines to ensure stable peer-to-peer and server-routed communication.
-
-#### [BMI9](#) *(Add your repo link here)*
-**Scalable Institutional Web Platform**
-*   **Tech Stack:** React, Next.js, i18n.
-*   **Description:** Developed a responsive, full-featured institutional platform.
-*   **Impact:** Implemented comprehensive internationalization (i18n) and optimized UI/UX architecture for high performance and accessibility.
-
-#### [Commercial Automation Scripts](#) *(Add your repo link here)*
-**Python Utility Tools**
-*   **Tech Stack:** Python, OS libraries.
-*   **Description:** Built terminal-based automated receipt generators for business operations.
-*   **Impact:** Eliminated manual data entry workflows, demonstrating the ability to apply programming to operational business logic.
+Software Engineering student at **Universidade São Judas Tadeu (USJT)**. I focus on building reliable backend systems, processing data, and exploring cloud infrastructure. I combine academic foundations with practical certifications to deliver secure and scalable applications.
 
 ---
 
-### 🎓 Education & Certifications
+## 🛠️ Tech Stack & Tools
 
-**Universidade São Judas Tadeu (USJT)**
-*B.Sc. Software Engineering (Expected 2028)*
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,html,css,tailwind,sql,aws,docker,git,linux,vscode&theme=dark" alt="Tech Stack" />
+</div>
 
-**Key Technical Certifications:**
-*   **Data Science & AI with Python** - *Alura* (Pandas, TensorFlow, AWS Deploy)
-*   **Network Defense & Cybersecurity** - *Cisco*
-*   **Intelligent Development with AI & Python** - *Santander*
-*   **SQL & Data Modeling** - *FGV EPGE*
-*   **Big Data & Data Analytics** - *FIAP*
+<br>
+
+*   **Engineering & Web:** Python, TypeScript/JavaScript, React, Next.js, Tailwind CSS, C.
+*   **Data & AI:** SQL, Pandas, Scikit-Learn, TensorFlow, Data Modeling.
+*   **Cloud & DevOps:** AWS, Docker, Linux, Git/GitHub.
+*   **Security:** Network Defense & Endpoint Security (Cisco).
 
 ---
 
-### 📊 GitHub Activity
+## 🚀 Featured Experience & Projects
 
-<div align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=s4muelxl&show_icons=true&theme=transparent&hide_border=true&title_color=black&text_color=333333&icon_color=333333" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4muelxl&layout=compact&theme=transparent&hide_border=true&title_color=black&text_color=333333" />
+*📌 You can check the source code for these projects in my pinned repositories below.*
+
+**Cabeça de Gelo | Real-Time Communication**
+Developed a low-latency web application for real-time audio, video, and screen sharing. Handled asynchronous state management and media streaming pipelines using Next.js, WebRTC, and LiveKit.
+
+**BMI9 | Institutional Web Platform**
+Built a responsive, full-featured institutional platform with Next.js and React. Implemented complete internationalization (i18n) and focused on a scalable, accessible frontend architecture.
+
+**Commercial Automation | Python Scripts**
+Engineered terminal-based automated receipt generators to eliminate manual data entry in business operations, demonstrating practical application of programming logic for operational efficiency.
+
+---
+
+## 🎓 Education & Certifications
+
+*   **B.Sc. Software Engineering** - Universidade São Judas Tadeu
+*   **Data Science & AI with Python** - Alura
+*   **Network Defense & Cybersecurity** - Cisco
+*   **Intelligent Development with AI & Python** - Santander
+*   **SQL & Data Modeling** - FGV EPGE
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=s4muelxl&theme=tokyonight" alt="GitHub stats card" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=s4muelxl&theme=tokyonight" alt="Most commit language card" />
 </div>
